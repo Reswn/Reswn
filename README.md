@@ -9,4 +9,4 @@
 - ✨ Sharing insights on Tech, Coding, and Innovation
 <br>
 📫 Connect with me:
-📧 Email | 💼 LinkedIn | 🌐 Portfolio
+📧 Email: renisuwandi1011@gmail.com | 💼 LinkedIn: https://www.linkedin.com/in/reni-suwandi |
