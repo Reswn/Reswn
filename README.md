@@ -33,7 +33,25 @@
     <tr>
         <td align="center"><a href="https://github.com/Reswn#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Reswn&theme=default"/></a><a href="https://github.com/Reswn#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Reswn&theme=tokyonight"/></a></td>
     </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/Reswn#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Reswn#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
+<tr>
+    <td colspan="2" align="center">
+        <!-- Light Mode Image -->
+        <a href="https://github.com/Reswn#gh-light-mode-only" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-contribution-grid-snake-default.svg" 
+                 alt="GitHub Stats - Light Mode"
+                 width="600"
+                 loading="lazy"
+                 onerror="this.style.display='none'; console.log('Light mode image failed to load');">
+        </a>
+
+        <!-- Dark Mode Image -->
+        <a href="https://github.com/Reswn#gh-dark-mode-only" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-contribution-grid-snake-dark.svg" 
+                 alt="GitHub Stats - Dark Mode"
+                 width="600"
+                 loading="lazy"
+                 onerror="this.style.display='none'; console.log('Dark mode image failed to load');">
+        </a>
+    </td>
+</tr>
 </table>
