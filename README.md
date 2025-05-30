@@ -43,15 +43,6 @@
                  loading="lazy"
                  onerror="this.style.display='none'; console.log('Light mode image failed to load');">
         </a>
-
-        <!-- Dark Mode Image -->
-        <a href="https://github.com/Reswn#gh-dark-mode-only" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-contribution-grid-snake-dark.svg" 
-                 alt="GitHub Stats - Dark Mode"
-                 width="600"
-                 loading="lazy"
-                 onerror="this.style.display='none'; console.log('Dark mode image failed to load');">
-        </a>
     </td>
 </tr>
 </table>
