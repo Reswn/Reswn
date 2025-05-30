@@ -35,14 +35,12 @@
     </tr>
 <tr>
     <td colspan="2" align="center">
-        <!-- Light Mode Image -->
-        <a href="https://github.com/Reswn#gh-light-mode-only" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-contribution-grid-snake-default.svg" 
-                 alt="GitHub Stats - Light Mode"
-                 width="600"
-                 loading="lazy"
-                 onerror="this.style.display='none'; console.log('Light mode image failed to load');">
+        <a href="https://github.com/Reswn#gh-light-mode-only"> 
+            <img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/> 
         </a>
-    </td>
+        <a href="https://github.com/Reswn#gh-dark-mode-only"> 
+            <img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/> 
+        </a>
+    </td>  
 </tr>
 </table>
