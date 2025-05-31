@@ -1,3 +1,4 @@
+[![](https://github.com/Reswn/Reswn/blob/main/BANNER%20GITHUB.png?raw=true)](#)
 <p align="center">
     <a href="https://github.com/Reswn/Reswn"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
@@ -7,7 +8,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Reswn.Reswn" alt="visitors"/>
 </p>
 
-[![](https://github.com/Reswn/Reswn/blob/main/BANNER%20GITHUB.png?raw=true)](#)
+
 
 > <b>Hi, I'm Reni Kartika! An enthusiastic developer passionate about web development, data science, and machine learning. I love exploring new technologies and applying them to solve real-world problems. Currently diving deep into backend development and IoT innovations.</b>\
 
