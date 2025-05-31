@@ -36,10 +36,10 @@
 <tr>
     <td colspan="2" align="center">
         <a href="https://github.com/Reswn#gh-light-mode-only"> 
-            <img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/> 
+            <img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-snake.svg" alt="My GitHub Stats"/> 
         </a>
         <a href="https://github.com/Reswn#gh-dark-mode-only"> 
-            <img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/> 
+            <img src="https://raw.githubusercontent.com/Reswn/Reswn/output/github-snake-dark.svg" alt="My GitHub Stats"/> 
         </a>
     </td>  
 </tr>
