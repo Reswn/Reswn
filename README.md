@@ -7,7 +7,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Reswn.Reswn" alt="visitors"/>
 </p>
 
-[![](./src/header_.png)](#)
+[![](https://github.com/Reswn/Reswn/blob/main/BANNER%20GITHUB.png?raw=true)](#)
 
 > <b>Hi, I'm Reni Kartika! An enthusiastic developer passionate about web development, data science, and machine learning. I love exploring new technologies and applying them to solve real-world problems. Currently diving deep into backend development and IoT innovations.</b>\
 
